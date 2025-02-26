@@ -17,7 +17,25 @@ deepcopy.location="Pindi"
 deepcopy.destiny.profession="Peace"
 console.log(deepcopy);
 
-console.log("form filling with formik completed .......");
+console.log("form filling with formik completed kjkjhjkkll .......");
+console.log("authication with formik completed kjkjhjkkll .......");
+
+
+{
+// asycnrous 
+console.log("form filling with formik completed kjkjhjkkll .......");
+}
+
+
+
+console.log("helle ");
+
+setTimeout(()=>{
+console.log("im in settimeout....");
+},0);//this will be send into call back qeue and will wait for the response to cout
+
+console.log("my name is asad ....");
+
 
 
 // git add .    ==> stage kr do meray code ko   
@@ -25,3 +43,12 @@ console.log("form filling with formik completed .......");
 // git push   ==> remote branch per bejh do
 
 
+
+// react 
+// event looop
+// filter 
+// includes
+// reduce 
+// map
+// forEach
+// 
